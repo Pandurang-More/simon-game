@@ -27,6 +27,16 @@ A modern and interactive Simon Game built using **HTML**, **CSS**, and **JavaScr
 5. Press `RESTART` or `Play Again` after Game Over to try again.
 
 ---
+## Technology Used
+- HTML5
+- CSS3 (Flexbox, Gradients, Media Queries)
+- JavaScript (ES6, DOM, AudioContext)
 
+```
+simon-game/
+│
+├── index.html # Game interface
+├── style.css # Styling and layout
+├── script.js # Game logic and interactivity
 
 
