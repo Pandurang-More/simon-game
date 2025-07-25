@@ -3,7 +3,7 @@
 A modern and interactive Simon Game built using **HTML**, **CSS**, and **JavaScript**. Follow the color pattern and test your memory as levels get harder!
 
 ### 🌐 Live Demo
-🔗 [View the Game](https://resonant-jalebi-324141.netlify.app/)
+🔗 [View the Game](https://pandurangmoresimongame.netlify.app/)
 
 ---
 
